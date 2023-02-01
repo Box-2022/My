@@ -32,9 +32,9 @@ Maven的核心特征就是依赖管理（就是一个管理jar包的过程），
 
 # 5. **Maven Java项目管理**
 
-https://raw.githubusercontent.com/Box-2022/My/main/images/wps2.jpg
-https://raw.githubusercontent.com/Box-2022/My/main/images/wps3.jpg
-https://raw.githubusercontent.com/Box-2022/My/main/images/wps4.jpg 
+![img](https://raw.githubusercontent.com/Box-2022/My/main/images/wps2.jpg)
+![img](https://raw.githubusercontent.com/Box-2022/My/main/images/wps3.jpg)
+ 
 
 # 6. **maven常用命令**
 
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/Box-2022/My/main/images/wps4.jpg
 
 # **7.maven的生命周期**
 
-# ![img](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml8588\wps4.jpg) 
+![img](https://raw.githubusercontent.com/Box-2022/My/main/images/wps4.jpg) 
 
 # **8.中央仓库的官网**
 
