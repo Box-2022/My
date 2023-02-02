@@ -32,7 +32,7 @@ Maven的核心特征就是依赖管理（就是一个管理jar包的过程），
 
 # 5. **Maven Java项目管理**
 
-![img](https://raw.githubusercontent.com/Box-2022/My/main/images/wps2.jpg)
+![img](./img/wps2.jpg)
 ![img](https://raw.githubusercontent.com/Box-2022/My/main/images/wps3.jpg)
  
 
